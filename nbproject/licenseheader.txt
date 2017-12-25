@@ -1,0 +1,41 @@
+/*
+ * ****************************************************************************
+ * ****************************************************************************
+
+  HEllo, THis projecT of PHP
+  subject - Project Allocation
+
+  c3 Batch sem-4
+
+  CE046	HireN ItaliyA
+  CE047	JaganI VatsaL
+  CE048	MohiT JaiN
+  CE049	AkshiT JariwalA
+
+ * ****************************************************************************
+ * ****************************************************************************
+ */
+?>
+
+
+
+<html>
+    <head>
+        <title>Project Allocation</title>
+        <link rel='icon' href="favicon.ico">
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="Robot" content="index,follow,project,allocation,distribution,subject"/>
+        <meta name="Description" content="Online Project Allocation is available over here"/>
+        <style type="text/css">
+            body{
+                background-image: url('images/apus_hill.jpg');
+            }
+	    h1{
+		color: yellow;
+		font-family: algerian;
+	    }
+        </style>
+    </head>
+    <body>
+        <h1 align="center">Project Allocation</h1>
